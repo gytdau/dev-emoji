@@ -1,10 +1,10 @@
-# dev-emoji
+# [dev-emoji (emoji.gytdau.com)](http://emoji.gytdau.com)
 
 Spice up your commit messages with ease.
 
 ### Fiddly details
 
-The emojis were taken from ![this repository.](https://github.com/rodrigopolo/minEmoji/tree/master/minEmoji)
+The emojis were taken from [this repository.](https://github.com/rodrigopolo/minEmoji/tree/master/minEmoji)
 
 Adding an emoji is a bit complicated but generally takes this workflow:
 
