@@ -6,11 +6,28 @@
     <link rel="stylesheet" href="https://bootswatch.com/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="emoji.css">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="animate.css">
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
     <script src="emoji-list.js"></script>
     <script src="index.js"></script>
 </head>
 <body>
+<div class="overlay hidden" id="modal">
+    <div class="overlay-inner text-center">
+        <h1>
+            Copying emoji
+        </h1>
+        <div>
+            Now press CTRL+C / ⌘+C
+        </div>
+        <div>
+            or click to cancel
+        </div>
+        <div class="hidden-text" id="hidden-input">
+
+        </div>
+    </div>
+</div>
 <div class="background-white">
 
 <div class="container">
